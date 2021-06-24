@@ -3,6 +3,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/FishgoKachow/count.svg" />
 </p>
+
 ## About:
 - 🌱 I’m currently learning Discord Python & Python
 - Fun fact:The oldest Greenland Shark is estimated to be 512 years old!
