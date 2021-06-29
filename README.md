@@ -1,8 +1,4 @@
 ### Hello! 🐸
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/FishgoKachow/count.svg" />
-</p>
 
 ## About:
 - 🌱 I’m currently learning Discord Python & Python
